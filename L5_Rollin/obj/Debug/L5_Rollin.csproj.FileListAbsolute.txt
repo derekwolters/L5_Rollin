@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\L5_Rollin\L5_Rollin\bin\Debug\L5_Rollin.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\L5_Rollin\L5_Rollin\bin\Debug\L5_Rollin.exe
+c:\users\derek\documents\visual studio 2015\Projects\L5_Rollin\L5_Rollin\bin\Debug\L5_Rollin.pdb
+c:\users\derek\documents\visual studio 2015\Projects\L5_Rollin\L5_Rollin\obj\Debug\L5_Rollin.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\L5_Rollin\L5_Rollin\obj\Debug\L5_Rollin.exe
+c:\users\derek\documents\visual studio 2015\Projects\L5_Rollin\L5_Rollin\obj\Debug\L5_Rollin.pdb
